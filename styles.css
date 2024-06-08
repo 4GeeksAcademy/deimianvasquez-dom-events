@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+.title{
+    color: white;
+    background-color: purple;
+    text-align: center;
+}
+
+.re-title{
+    color: black;
+}
